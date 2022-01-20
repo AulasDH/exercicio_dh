@@ -1,0 +1,9 @@
+{
+    "teste": 5,
+    "teste2": "string",
+    "meuArray": [
+        {
+            "nome": "Gabriel"
+        }
+    ]
+}
